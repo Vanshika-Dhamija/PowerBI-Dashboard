@@ -43,6 +43,5 @@ This Power BI dashboard provides a comprehensive view of monthly income, savings
 As an aspiring Data Analyst, I built this project to demonstrate my data visualization, modeling, and storytelling abilities using real-world financial scenarios. This dashboard reflects my approach to solving analytical problems and communicating insights effectively.
 
 # Preview
-
-*Add screenshots here once uploaded to the repo.*
+![Dashboard Preview](dashboard-preview.png)
 
